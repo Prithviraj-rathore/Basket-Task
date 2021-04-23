@@ -1,0 +1,17 @@
+.Footer__app{
+
+   box-sizing: border-box;
+   width: 100%;
+   display: flex;
+ 
+   
+   justify-content: center;
+   align-items: baseline;
+   padding: 1em;
+   margin-bottom: 2em;
+   background-color : rgba(0, 0, 0, 0.87);
+   color: #fff;
+ 
+ 
+ 
+ }
